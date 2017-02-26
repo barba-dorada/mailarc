@@ -27,8 +27,8 @@ public class ParserTest {
     @Test
     public void testMessage() throws MessagingException {
 
-        /**
-         * md50000051213.msg
+        /*
+          md50000051213.msg
          Message-ID: <002301c3230b$554cba10$7600a8c0@sonya>
          Reply-To: "Sh. Sonia" <pne@sferacom.ru>
          From: "Sh. Sonia" <pne@sferacom.ru>

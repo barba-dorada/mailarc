@@ -7,7 +7,8 @@ import javax.mail.MessagingException;
 import javax.mail.internet.MimeMessage;
 
 /**
- * Created by adm on 22.02.2017 18:35.
+ * Created by vadim.tishenko
+ * on 22.02.2017 18:35 20:07.
  */
 public class OldParser implements IParser {
 

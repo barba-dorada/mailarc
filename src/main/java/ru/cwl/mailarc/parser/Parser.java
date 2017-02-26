@@ -9,7 +9,8 @@ import javax.mail.internet.MimeMessage;
 import java.sql.Timestamp;
 
 /**
- * Created by adm on 22.02.2017 15:24.
+ * Created by vadim.tishenko
+ * on 22.02.2017 15:24 20:07.
  */
 public class Parser implements IParser {
     private final Parser2 ph;
