@@ -18,6 +18,34 @@ public class Header {
     LocalDateTime sent;
     String msgId;
 
+    public String getFrom() {
+        return from;
+    }
+
+    public List<String> getTo() {
+        return to;
+    }
+
+    public List<String> getCc() {
+        return cc;
+    }
+
+    public List<String> getBcc() {
+        return bcc;
+    }
+
+    public String getSubj() {
+        return subj;
+    }
+
+    public String getMsgId() {
+        return msgId;
+    }
+
+    public LocalDateTime getSent() {
+        return sent;
+    }
+
     @Override
     public String toString() {
         return "Header{" +
